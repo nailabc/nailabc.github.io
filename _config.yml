@@ -6,38 +6,39 @@
 # --- Required options --- #
 
 # Name of website
-title: Naila
+title: Naíla Barbosa da Costa
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Microbial ecologist
 
 # GitHub Actions
-repository: "VincentTam/beautiful-jekyll"
+repository: "nailabc/nailabc.github.io"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # Your name to show in the footer
-author: Some Person
+author: Naíla Barbosa da Costa
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research:
+    - Projects: "https://nailabc.github.io/projects"
+    - Publications: "https://nailabc.github.io/publications"
+  CV: "https://nailabc.github.io/markdown-cv/"
+  Community engagement: "https://nailabc.github.io/volunteer"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -49,14 +50,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "naila.barbosa.da.costa@umontreal.ca"
+#  facebook: deanattali
+  github: nailabc
+  twitter: nbcosta
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: 
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -69,12 +70,12 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-7158-933X
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -82,12 +83,12 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
