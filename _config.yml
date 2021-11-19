@@ -15,19 +15,20 @@ author: Microbial ecologist
 
 navbar-links:
   About Me: "aboutme"
- I am a curious human being fascinated about biological sciences and water!
- Not as a coincidence, I ended up studying microbial ecology and evolution in freshwater ecosystems.
- I'm currently a Ph.D. candidate supervised by professor Jesse Shapiro (McGill/UdeM) and co-supervised by Gregor Fussmann (McGill).
- You can check my CV here: "https://nailabc.github.io/markdown-cv/"
- 
+  Research:
+    - Projects: "https://nailabc.github.io/projects"
+    - Publications: "https://nailabc.github.io/publications"
+  CV: "https://nailabc.github.io/markdown-cv/"
+  Community engagement: "https://nailabc.github.io/volunteer"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -39,14 +40,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "naila.barboa.da.costa@umontreal.ca"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
-#  medium: yourname
+ # facebook: deanattali
+  github: nailabc
+  twitter: nbcosta
+#  patreon: DeanAttali
+#  youtube: c/daattali
+  medium: nbcosta
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -61,12 +62,12 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-7158-933X
 #  google-scholar: your google scholar
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
