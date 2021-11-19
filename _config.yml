@@ -6,20 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Naíla Barbosa da Costa
 
 # Your name to show in the footer
-author: Some Person
+author: Microbial ecologist
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
+ I am a curious human being fascinated about biological sciences and water!
+ Not as a coincidence, I ended up studying microbial ecology and evolution in freshwater ecosystems.
+ I'm currently a Ph.D. candidate supervised by professor Jesse Shapiro (McGill/UdeM) and co-supervised by Gregor Fussmann (McGill).
+ You can check my CV here "https://nailabc.github.io/markdown-cv/"
+ 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
