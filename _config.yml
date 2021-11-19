@@ -14,7 +14,7 @@ author: Microbial ecologist
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "https://nailabc.github.io/aboutme"
   Research:
     - Projects: "https://nailabc.github.io/projects"
     - Publications: "https://nailabc.github.io/publications"
